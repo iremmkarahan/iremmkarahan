@@ -36,7 +36,6 @@
 
 
 ## 📊 GitHub Stats
-
 <img
   src="https://github-readme-stats.vercel.app/api?username=iremmkarahan&show_icons=true&count_private=true&hide_border=true"
   height="165"
