@@ -34,10 +34,18 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iremmkarahan&show_icons=true&theme=default)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=iremmkarahan&show_icons=true&count_private=true&hide_border=true"
+  height="165"
+/>
 
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=iremmkarahan&hide_border=true"
+  height="165"
+/>
 ---
 
 🌍 Connect With Me
