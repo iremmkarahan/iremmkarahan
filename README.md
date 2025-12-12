@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I’m İrem
 
-<!--
-**iremmkarahan/iremmkarahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Developer & Senior Software Engineering Student  
+🚀 Tech Enthusiast | 🌱 Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Currently working on **awesome projects**  
+- 🌱 Learning **Java, Spring Boot, and Microservices**  
+- 👯 Open to collaborating on **open-source projects**  
+- ⚡ Fun fact: *I turn coffee ☕ into clean, scalable code*  
+
+---
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Swift  
+- Java  
+- JavaScript  
+- Python  
+- PHP  
+
+### 🌐 Frontend
+- HTML5  
+- CSS 
+- JavaScript
+
+### ⚙️ Backend & Tools
+- Django  
+- REST APIs  
+- MySQL, PostgreSQL, MariaDB   
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iremmkarahan&show_icons=true&theme=default)
+
+---
+
+🌍 Connect With Me
+	•	💼 LinkedIn: İrem Karahan￼
+	•	📧 Email: iremmmkarahan@gmail.com
