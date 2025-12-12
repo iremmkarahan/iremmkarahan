@@ -33,14 +33,7 @@
 - MySQL, PostgreSQL, MariaDB   
 
 ---
-
-
 ## 📊 GitHub Stats
-<img
-  src="https://github-readme-stats.vercel.app/api?username=iremmkarahan&show_icons=true&count_private=true&hide_border=true"
-  height="165"
-/>
-
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=iremmkarahan&hide_border=true"
   height="165"
