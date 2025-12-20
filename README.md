@@ -1,8 +1,6 @@
 ## Hi 👋, I’m İrem
 
 💻 Passionate Developer & Senior Software Engineering Student  
-🚀 Tech Enthusiast | 🌱 Lifelong Learner
-
 
 
 ## About Me
